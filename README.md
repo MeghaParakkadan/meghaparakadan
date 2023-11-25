@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meghaparakadan
+- 👋 Hi, I’m @meghaparakkadan
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Azure services
 - 💞️ I’m actively looking for opprtunities in data analytics and data engineering field ...
